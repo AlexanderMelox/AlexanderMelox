@@ -1,16 +1,13 @@
-### Hi there 👋
+### i'm alex and i make 💩 with code 
 
-<!--
-**AlexanderMelox/AlexanderMelox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i work for ibm as a ux engineer in austin, tx
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 i’m currently working on creating motion components for ibm
+- 🌱 i’m currently learning typescript, graphql, and typeorm
+- 💬 ask me about [ux engineering, motion, react, graphql]
+- 📫 how to reach me: 
+  - alexandermelox@gmail.com
+  - https://www.instagram.com/eat.sleep.code/
+  - https://twitter.com/melo_codes
+- 😄 pronouns: he
+- ⚡ fun fact: i am colorblind and i work in tech 😬
