@@ -1,4 +1,4 @@
-### i'm alex and i make 💩 with code 
+### i'm alex and i make things happen with code
 
 i work for ibm as a ux engineer in austin, tx
 
