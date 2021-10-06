@@ -1,6 +1,6 @@
 ### i'm alex and i make things happen with code
 
-i work for ibm as a ux engineer in austin, tx
+i work for ibm as a ux engineer
 
 - 🔭 i’m currently working on creating motion components for ibm
 - 🌱 i’m currently learning typescript, graphql, and typeorm
