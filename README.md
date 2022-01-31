@@ -9,5 +9,4 @@ i work for ibm as a ux engineer
   - alexandermelox@gmail.com
   - https://www.instagram.com/eat.sleep.code/
   - https://twitter.com/melo_codes
-- 😄 pronouns: he
 - ⚡ fun fact: i am colorblind and i work in tech 😬
