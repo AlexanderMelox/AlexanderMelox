@@ -2,7 +2,7 @@
 
 i work for ibm as a ux engineer
 
-- 🌱 i’m currently learning typescript, graphql, and keystonejs
+- 🌱 i’m currently learning web components and Lit
 - 💬 ask me about [ux engineering, motion, react, graphql]
 - 📫 how to reach me: 
   - alexandermelox@gmail.com
