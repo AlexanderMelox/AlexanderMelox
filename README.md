@@ -1,9 +1,9 @@
-### i'm alex and i make things happen with code
+### i'm alex i live in nyc and work @ibm
 
-i work for ibm as a ux engineer
+currently working on ibm's [carbon design system](https://carbondesignsystem.com/) 
 
 - 🌱 i’m currently learning web components and Lit
-- 💬 ask me about [ux engineering, motion, react, graphql]
+- 💬 ask me about `["board games", "video games", "cats"]`
 - 📫 how to reach me: 
   - alexandermelox@gmail.com
   - https://www.instagram.com/eat.sleep.code/
